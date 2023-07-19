@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="center" height="250" alt="coding-time" src="code.gif">
     <h2 align="center">Melhores Tecnologias!</h2>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -23,7 +23,7 @@
   
   <div>
   <h3 align="center">Contatos!</h3>
-  <a href="[https://www.linkedin.com/in/lucasoliveiraprep00-45875016a](https://www.linkedin.com/in/lucasoliveiraprep00/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="(https://www.linkedin.com/in/lucasoliveiraprep00/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
   
