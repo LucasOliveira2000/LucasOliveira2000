@@ -1,8 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 
 <h1 align="center">Olá👋, Lucas Oliveira aqui!</h1>
-<div>
-  <img  align ="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasOliveira2000&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
+
+<div style="text-align: center;">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasOliveira2000&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliveira2000&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
