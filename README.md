@@ -3,7 +3,7 @@
 <h1 align="center">Olá👋, Lucas Oliveira aqui!</h1>
 
 <div style="text-align: center;">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasOliveira2000&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasOliveira2000&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=false"/> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliveira2000&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
