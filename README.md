@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá👋, Lucas Oliveira aqui!</h1>
 
-<div style="text-align: center;">
+<div style="text-align: center; display:flex;">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasOliveira2000&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliveira2000&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
@@ -12,9 +12,9 @@
   <div style="display: inline_block"><br>
     <img align="center" height="250" alt="coding-time" src="code.gif">
     <h2 align="center">Melhores Tecnologias!</h2>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
